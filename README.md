@@ -1,16 +1,56 @@
-## Hi there 👋
+# AM Stack
 
-<!--
-**amstack-agency/amstack-agency** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+We build smart, scalable digital systems for modern businesses.
 
-Here are some ideas to get you started:
+AM Stack is a technology-driven agency focused on **automation, AI solutions, and full-stack development**. We help businesses streamline operations, improve efficiency, and grow with clean, reliable systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## What We Do
+
+- 🤖 Automation & AI Agents  
+- 🧠 Agentic AI Solutions  
+- 🌐 Full-Stack Web & App Development
+- 📈 Digital Marketing & Performance Ads  
+- 📱 Social Media Management  
+- 🎨 Graphic Design & Brand Assets  
+
+---
+
+## Industries We Work With
+
+- E-commerce Brands  
+- Restaurants & Food Businesses  
+- Service-Based & High-Ticket Businesses  
+
+---
+
+## Our Approach
+
+We don’t sell random services.  
+We design **custom solutions** based on business needs, scalability, and long-term growth.
+
+Our focus is on:
+- Clean architecture  
+- Smart automation  
+- Real business impact  
+
+---
+
+## Why AM Stack
+
+- Technology-first mindset  
+- AI-driven workflows  
+- End-to-end execution  
+- Long-term support & scalability  
+
+---
+
+## Let’s Build Something Solid## Contact & Collaboration
+
+📧 Email: amstackagency@gmail.com  
+🐙 GitHub: amstack-agency  
+📸 Instagram: amstack_agency
+
+Open for automation, development, and long-term collaborations.
+
